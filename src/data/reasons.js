@@ -188,9 +188,9 @@ const reasons = [
     media:{
       type : "video",
       src: "/videos/r10.mp4",
-      posterImg: "/images/polaroids/r10.jpg",
+      
     },
-    
+    image: "/images/polaroids/r10.jpg",
     //alt: "us laughing",
     // optional: tweak the photo angle/position
     photo: { rotate: 0, x: 20, y: 180, scale: 1.5 },
